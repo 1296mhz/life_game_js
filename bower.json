@@ -1,0 +1,22 @@
+{
+  "name": "test_life",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "cshlovjah <cshlovjah@gmail.com>"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.2",
+    "noisejs": "https://github.com/josephg/noisejs.git"
+  }
+}
